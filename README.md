@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Justin Schilleman</h1>
 <h3 align="center">I am currently studying Computer Science at Florida State University</h3>
 
-- Currently learning: **Data Structures and Algorithms, Database Structures, and more!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jschillem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jschillem/" height="30" width="40" /></a>
