@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Justin Schilleman</h1>
-<h3 align="center">An eager CS student at Florida State University</h3>
+<h3 align="center">I am currently studying Computer Science at Florida State University</h3>
 
 - Currently learning: **Data Structures and Algorithms, Database Structures, and more!**
 
